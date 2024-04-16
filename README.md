@@ -1,2 +1,2 @@
 # IVDC_Induction
-This repo contains the Induction task of IVDC IITI
+This repo contains the Induction task for Autonomy devision IVDC IITI.
